@@ -12,6 +12,9 @@
 
 <!-- Social Badges -->
 <p align="center">
+  <a href="https://pranavbb.neocities.org">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+  </a>
   <a href="https://github.com/BBPranav-commits">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
