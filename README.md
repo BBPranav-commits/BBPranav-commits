@@ -47,7 +47,7 @@ currently_exploring:
   <img src="<!-- Dev Quote Card -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>"
+</p>
 </p>
 
 <!-- Profile Views Counter -->
@@ -76,9 +76,8 @@ currently_exploring:
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,linux" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,python,js,html,css,git,linux,vscode&theme=dark" alt="Tech Stack" />
 </p>
-
 ---
 
 ### Featured Projects
