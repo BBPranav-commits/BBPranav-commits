@@ -28,8 +28,8 @@
 ### Featured Projects
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Project 1](https://github.com/username/repo1)** | Short explanation of what problem it solves. | C++, Algorithms |
-| **[Project 2](https://github.com/username/repo2)** | Short explanation of what problem it solves. | React, CSS |
+| **[Project 1](https://github.com/BBPranav-commits/repo1)** | Short explanation of what problem it solves. | C++, Algorithms |
+| **[Project 2](https://github.com/BBPranav-commits/repo2)** | Short explanation of what problem it solves. | React, CSS |
 
 ---
 
