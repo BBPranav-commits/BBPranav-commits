@@ -26,8 +26,7 @@
 ---
 
 ### `>_` 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
-<h4>
-```yaml
+<h4>```yaml
 user: Pranav (@BBPranav-commits)
 focus:
   - Cybersecurity & Network Analysis
