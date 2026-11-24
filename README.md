@@ -47,7 +47,7 @@ currently_exploring:
   <img src="<!-- Dev Quote Card -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>" />
+</p>"
 </p>
 
 <!-- Profile Views Counter -->
