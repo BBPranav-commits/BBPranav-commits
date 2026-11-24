@@ -26,7 +26,7 @@
 ---
 
 ### `>_` 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
-<h4>```yaml
+```yaml
 user: Pranav (@BBPranav-commits)
 focus:
   - Cybersecurity & Network Analysis
@@ -35,7 +35,7 @@ focus:
 currently_exploring:
   - Low-level systems & packet inspection
   - Full-stack & security automation
-```</h4>
+```
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="<!-- Dev Quote Card -->
