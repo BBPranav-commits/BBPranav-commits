@@ -49,11 +49,10 @@ currently_exploring:
   <img src="https://komarev.com/ghpvc/?username=BBPranav-commits&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
 ---
-
-### Tech Stack
+<div>### Tech Stack
 <p align="left">
 <img src="https://skillicons.dev/icons?i=ts,cpp,python,js,html,css,git,linux,vscode&theme=dark" alt="Tech Stack" />
-</p>
+</p></div>
 ---
 
 ### Featured Projects
