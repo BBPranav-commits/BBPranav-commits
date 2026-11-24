@@ -39,13 +39,13 @@
 
 
 <div align="center">
-  <h1>Hi, I'm Pranav 👋</h1>
+  <h1>Hi, I'm Pranav </h1>
   <p><b>Computer Science & Engineering Student</b> • Exploring Cybersecurity, Cryptography & Systems</p>
   
   <p>
     <a href="https://github.com/BBPranav-commits">GitHub</a> •
-    <a href="https://linkedin.com/in/your-profile">LinkedIn</a> •
-    <a href="mailto:you@example.com">Email</a>
+    <a href="https://linkedin.com/in/pranavbb">LinkedIn</a> •
+    <a href="mailto:bbpranav@gmail.com">Email</a>
   </p>
 </div>
 
