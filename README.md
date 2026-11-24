@@ -26,7 +26,7 @@
 ---
 
 ### `>_` 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
-
+<h4>
 ```yaml
 user: Pranav (@BBPranav-commits)
 focus:
@@ -36,12 +36,7 @@ focus:
 currently_exploring:
   - Low-level systems & packet inspection
   - Full-stack & security automation
-```
-<!-- Live 30-Day Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BBPranav-commits&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
+```</h4>
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="<!-- Dev Quote Card -->
@@ -97,4 +92,8 @@ currently_exploring:
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BBPranav-commits&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBPranav-commits&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<!-- Live 30-Day Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BBPranav-commits&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
