@@ -48,24 +48,6 @@ currently_exploring:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BBPranav-commits&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
-<div align="center">
-  <h1>Hi, I'm Pranav </h1>
-  <p><b>Computer Science & Engineering Student</b> • Exploring Cybersecurity, Cryptography & Systems</p>
-  
-  <p>
-    <a href="https://github.com/BBPranav-commits">GitHub</a> •
-    <a href="https://linkedin.com/in/pranavbb">LinkedIn</a> •
-    <a href="mailto:bbpranav@gmail.com">Email</a>
-  </p>
-</div>
-
----
-
-### About Me
-- 🔭 Building security tools, encryption utilities, and backend systems.
-- 🌱 Deepening my skills in **Data Structures & Algorithms**, **Network Security**, and **System Design**.
-- 💬 Ask me about **C++, Python, Cryptography, and Cybersecurity basics**.
-
 ---
 
 ### Tech Stack
