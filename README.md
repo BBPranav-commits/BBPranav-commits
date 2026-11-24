@@ -36,7 +36,7 @@ focus:
 currently_exploring:
   - Low-level systems & packet inspection
   - Full-stack & security automation
-
+```
 <!-- Live 30-Day Contribution Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BBPranav-commits&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
