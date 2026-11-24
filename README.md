@@ -1,3 +1,42 @@
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=200&section=header&text=PRANAV&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Cryptography%20%E2%80%A2%20Systems&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+<!-- Custom Font Animated Typing Effect (Fira Code) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=root@pranav:~%23+whoami;CS+Student+%26+Security+Enthusiast;Building+Encryption+%26+Network+Tools;Always+Learning.+Always+Shipping." alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/BBPranav-commits">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  </a>
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+  </a>
+</p>
+
+---
+
+### `>_` 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
+
+```yaml
+user: Pranav (@BBPranav-commits)
+focus:
+  - Cybersecurity & Network Analysis
+  - Cryptography & Secure Authentication
+  - Data Structures, Algorithms & Systems
+currently_exploring:
+  - Low-level systems & packet inspection
+  - Full-stack & security automation
+
 <div align="center">
   <h1>Hi, I'm Pranav </h1>
   <p><b>Computer Science & Engineering Student</b> • Exploring Cybersecurity, Cryptography & Systems</p>
