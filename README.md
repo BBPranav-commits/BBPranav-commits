@@ -1,6 +1,6 @@
 # <div align="center">
   <h1>Hi, I'm Pranav B B </h1>
-  <p><b>[Your Role / Student / Developer]</b> • Building clean software and exploring systems.</p>
+  <p><b>[Student / Developer]</b> • Building clean software and exploring systems.</p>
   
   <p>
     <a href="https://pranavbb.neocities.org">Portfolio</a> •
@@ -11,10 +11,6 @@
 
 ---
 
-### About Me
-- 🔭 Currently working on **[Project Name]** — [brief 1-line description].
-- 🌱 Currently learning **[Topic / Framework / Language]**.
-- 💬 Ask me about **[Skill 1, Skill 2, Skill 3]**.
 
 ---
 
