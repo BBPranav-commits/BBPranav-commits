@@ -44,7 +44,10 @@ currently_exploring:
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BBPranav-commits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+  <img src="<!-- Dev Quote Card -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>" />
 </p>
 
 <!-- Profile Views Counter -->
