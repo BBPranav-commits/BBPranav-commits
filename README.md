@@ -47,7 +47,7 @@ I'm a computer science student who builds security tools to understand how they 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BBPranav-commits/BBPranav-commits/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/BBPranav-commits/BBPranav-commits/output/github-snake.svg" alt="Snake eating the contribution graph" width="100%">
+    <img src="terminal.svg" width="100%">
   </picture>
 </p>
 
