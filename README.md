@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Pranav: cybersecurity, cryptography and systems" width="100%">
+  <img src="banner.svg" alt="Pranav: cybersecurity, cryptography and systems" width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Terminal session: Pranav is a CS student and security enthusiast focused on network analysis, cryptography, and systems." width="720">
+  <img src="terminal.svg" alt="Terminal session: Pranav is a CS student and security enthusiast focused on network analysis, cryptography, and systems." width="720">
 </p>
 
 I'm a computer science student who builds security tools to understand how they work: packet sniffers, encryption utilities, and authentication flows. Right now I'm digging into low-level systems and automating security work.
